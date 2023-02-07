@@ -7,7 +7,7 @@
 <style>
 h1{text-align: center;}
 P{text-align: center;}
-div{text-align: center;}<img width="1448" alt="截屏2023-02-07 10 58 08" src="https://user-images.githubusercontent.com/
+div{text-align: center;}<img width="1448" alt=src="https://user-images.githubusercontent.com/
 
 https://user-images.githubusercontent.com/119273882/217138029-ae746f4e-5b5e-4d55-8e56-c0d0cc680425.mov
 
